@@ -1,24 +1,24 @@
 {
-    "idSave": 123,
-    "isFirstSession": false,
-    "language": "ru",
-    "promptDone": false,
-    "money": 1,
-    "newPlayerName": "Hello!",
-    "openLevels": [
-        false,
-        true,
-        false
-    ],
-    "HasSound": false,
-    "OpenCharacters": [
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-    ]
+  "idSave": 124,
+  "isFirstSession": false,
+  "language": "ru",
+  "promptDone": false,
+  "money": 1,
+  "newPlayerName": "Hello!",
+  "openLevels": [
+    false,
+    true,
+    false
+  ],
+  "HasSound": false,
+  "OpenCharacters": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true
+  ]
 }
