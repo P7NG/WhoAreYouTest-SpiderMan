@@ -21,6 +21,7 @@ namespace YG
         // ...
 
         public bool HasSound = true;
+        public bool[] OpenCharacters = { false, false, false, false, false, false, false, false };
 
         // Поля (сохранения) можно удалять и создавать новые. При обновлении игры сохранения ломаться не должны
 
